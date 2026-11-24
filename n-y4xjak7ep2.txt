@@ -1,10 +1,10 @@
 #name: VK test
-#update: 1795055482
+#update: 1795519802
 #refresh: 10m
 #used: 0b
 #available: unlimited
 
-olcrtc://vkcalls?vp8channel<vp8-fps=60>@https://vk.ru/call/join/QKOkX8xLv8dVT5PHhi70wWM2hbntmT2nJZ9phiEwVNk#7f039ed8156dc138c7331c34dece510e132f55bce8af5f78e2356f32b9111163$VK-panel-v2
+olcrtc://vkcalls?vp8channel<vp8-fps=60>@https://vk.ru/call/join/2VrHoJrC4xm4qSFufZJPwYmWXuG2GsAmlAgTE-DGKlE#7f039ed8156dc138c7331c34dece510e132f55bce8af5f78e2356f32b9111163$VK-panel-v2
 ##name: VK-entry-v2
 ##used: 0b
 ##available: unlimited
